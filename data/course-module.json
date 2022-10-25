@@ -2,6 +2,7 @@
     {
       "id": 1,
       "title": "computer Fundamental",
+      "category": "engineering-knowledge",
       "price": 109.95,
       "image": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1666697416~exp=1666698016~hmac=5f3069780add0da9ea12a4a0809479744d215c71185f0968387153683cdd6913",
       "rating": {
@@ -13,7 +14,7 @@
       "id": 2,
       "title": "Computer Organization and Design",
       "price": 22.3,
-      "category": "men's clothing",
+      "category": "engineering-knowledge",
       "image": "https://img.freepik.com/free-vector/pair-programming-concept-illustration_114360-1812.jpg?w=360&t=st=1666697568~exp=1666698168~hmac=ba9a921dcffe54466a093bfa7358a10c5376716413385bbe9a16ddf9fbf0c1cd",
       "rating": {
         "rate": 4.1,
@@ -24,6 +25,7 @@
       "id": 3,
       "title": "Data Security",
       "price": 55.99,
+      "category": "data-engineering",
       "image": "https://img.freepik.com/free-vector/interaction-design-concept-illustration_114360-1432.jpg?w=360&t=st=1666697570~exp=1666698170~hmac=efda8874a9c302e9ff0cac009b355870a154a5088eea9cf9d68cc689c28b1b42",
       "rating": {
         "rate": 4.7,
@@ -34,7 +36,7 @@
       "id": 4,
       "title": "Discrete mathematics",
       "price": 15.99,
-      "category": "men's clothing",
+      "category": "problem-analysis",
       "image": "https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18383.jpg?w=360&t=st=1666699141~exp=1666699741~hmac=b02e9d276377918118304959ec05c0246787a3a4da0d22fcc8d7bcd248bfc81c",
       "rating": {
         "rate": 2.1,
@@ -43,9 +45,9 @@
     },
     {
       "id": 5,
-      "title": "Data structure",
+      "title": "data-structure",
       "price": 695,
-      "category": "jewelery",
+      "category": "problem-analysis",
       "image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/07/13022153/BLOG-Images_7-7-2020-06.png",
       "rating": {
         "rate": 4.6,
@@ -56,7 +58,7 @@
       "id": 6,
       "title": "Internet and Web Technology ",
       "price": 168,
-      "category": "jewelery",
+      "category": "communication",
       "image":  "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=360&t=st=1666697468~exp=1666698068~hmac=1573a3b6fdb69522b0de6946437a58e9b07386bc6444fbeecbaf6e522135edcf",
       "rating": {
         "rate": 3.9,
@@ -67,7 +69,7 @@
       "id": 7,
       "title": "Digital Logic",
       "price": 9.99,
-      "category": "jewelery",
+      "category": "systems-architect",
       "image": "https://img.freepik.com/free-vector/flat-computer-engineering-concept_23-2148157162.jpg?w=360&t=st=1666699241~exp=1666699841~hmac=a369a7308689d1f807ee0a6d6f00a0274122bf94321a1ef2a9394823cb9cb6f4",
       "rating": {
         "rate": 3,
@@ -78,7 +80,7 @@
       "id": 8,
       "title": "Microprocessors and Assembly Language Programming",
       "price": 10.99,
-      "category": "jewelery",
+      "category": "machine-learning",
       "image": "https://img.freepik.com/free-vector/digital-technology-face-artificial-intelligence_1017-21770.jpg?w=996&t=st=1666699179~exp=1666699779~hmac=aae5b65052d0ffb9c5bb794d35a350a36191b930bebd800bec535418b8a954a8",
       "rating": {
         "rate": 1.9,
@@ -89,7 +91,7 @@
       "id": 9,
       "title": "Object Oriented Programing",
       "price": 64,
-      "category": "electronics",
+      "category": "software-engineering",
       "image": "https://img.freepik.com/free-vector/global-data-security-personal-data-security-cyber-data-security-online-concept-illustration-internet-security-information-privacy-protection_1150-37376.jpg?w=360&t=st=1666699589~exp=1666700189~hmac=bf2d24b8afaf466cc883742b52b9ed9ce571350b197ba1f281852cc6972d28b2",
       "rating": {
         "rate": 3.3,
@@ -100,7 +102,7 @@
       "id": 10,
       "title": "Artificial intelligence",
       "price": 109,
-      "category": "electronics",
+      "category": "machine-learning",
       "image": "https://img.freepik.com/free-vector/poster-artificial-intelligence_107791-2759.jpg?w=360&t=st=1666699284~exp=1666699884~hmac=55d70e4c9f3b569db6fd7dc77ac301c230e146e74211571179058993e6ee8328",
       "rating": {
         "rate": 2.9,
@@ -122,7 +124,7 @@
       "id": 12,
       "title": "Compiler Construction",
       "price": 114,
-      "category": "electronics",
+      "category": "systems-architect",
       "image": "https://img.freepik.com/free-vector/software-development-programming-coding-learning-information-technology-courses-it-courses-all-levels-computing-hi-tech-course-concept_335657-191.jpg?w=740&t=st=1666700450~exp=1666701050~hmac=2708654c485fe0bd76fdd5e9402087f8140b0d254bbb2808fd45933c3ac35139",
       "rating": {
         "rate": 4.8,
