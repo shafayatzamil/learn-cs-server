@@ -4,6 +4,7 @@
       "title": "computer Fundamental",
       "category": "engineering-knowledge",
       "price": 109.95,
+      "details":"Computer fundamentals tutorial provides basic and advanced concepts of Bootstrap. Our Computer fundamentals is designed for beginners and professionals.Computer is an electronic device i.e. used to work with information or compute. It is derived from the Latin word 'computare' which means to calculate.Our Computer fundamentals tutorial includes all topics of Computer fundamentals such as input devices, output devices, memory, CPU, motherboard, computer network, virus, software, hardware etc.",
       "image": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1666697416~exp=1666698016~hmac=5f3069780add0da9ea12a4a0809479744d215c71185f0968387153683cdd6913",
       "rating": {
         "rate": 3.9,
@@ -14,6 +15,7 @@
       "id": 2,
       "title": "Computer Organization and Design",
       "price": 22.3,
+      "details":"Computer Organization and Architecture Tutorial provides in-depth knowledge of internal working, structuring, and implementation of a computer system.Whereas, Organization defines the way the system is structured so that all those catalogued tools can be used properly.Our Computer Organization and Architecture Tutorial includes all topics of such as introduction, ER model, keys, relational model, join operation, SQL, functional dependency, transaction, concurrency control, etc.",
       "category": "engineering-knowledge",
       "image": "https://img.freepik.com/free-vector/pair-programming-concept-illustration_114360-1812.jpg?w=360&t=st=1666697568~exp=1666698168~hmac=ba9a921dcffe54466a093bfa7358a10c5376716413385bbe9a16ddf9fbf0c1cd",
       "rating": {
@@ -26,6 +28,7 @@
       "title": "Data Security",
       "price": 55.99,
       "category": "data-engineering",
+      "details":"A data structure is a collection of data values and the relationships between them. Data structures allow programs to store and process data effectively. There are many different data structures, each with its own advantages and disadvantages. Some of the most common data structures are arrays, lists, trees, and graphs.",
       "image": "https://img.freepik.com/free-vector/interaction-design-concept-illustration_114360-1432.jpg?w=360&t=st=1666697570~exp=1666698170~hmac=efda8874a9c302e9ff0cac009b355870a154a5088eea9cf9d68cc689c28b1b42",
       "rating": {
         "rate": 4.7,
@@ -37,6 +40,7 @@
       "title": "Discrete mathematics",
       "price": 15.99,
       "category": "problem-analysis",
+      "details":"Discrete mathematics Tutorial provides basic and advanced concepts of Discrete mathematics. Our Discrete mathematics Structure Tutorial is designed for beginners and professionals both. Discrete mathematics is the branch of mathematics dealing with objects that can consider only distinct, separated values. This tutorial includes the fundamental concepts of Sets, Relations and Functions, Mathematical Logic, Group theory, Counting Theory, Probability, Mathematical Induction, and Recurrence Relations, Graph Theory, Trees and Boolean Algebra.",
       "image": "https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18383.jpg?w=360&t=st=1666699141~exp=1666699741~hmac=b02e9d276377918118304959ec05c0246787a3a4da0d22fcc8d7bcd248bfc81c",
       "rating": {
         "rate": 2.1,
@@ -46,6 +50,7 @@
     {
       "id": 5,
       "title": "data-structure",
+      "details":"Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently. Depending on your requirement and project, it is important to choose the right data structure for your project. For example, if you want to store data sequentially in the memory, then you can go for the Array data structure. In linear data structures, the elements are arranged in sequence one after the other. Since elements are arranged in particular order, they are easy to implement.",
       "price": 695,
       "category": "problem-analysis",
       "image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/07/13022153/BLOG-Images_7-7-2020-06.png",
@@ -59,6 +64,7 @@
       "title": "Internet and Web Technology ",
       "price": 168,
       "category": "communication",
+      "details":"In simplest terms, the Internet is a global network comprised of smaller networks that are interconnected using standardized communication protocols. The Internet standards describe a framework known as the Internet protocol suite. This model divides methods into a layered system of protocols.he Internet provides a variety of information and communication facilities; contains forums, databases, email, hypertext, etc. It consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies.",
       "image":  "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=360&t=st=1666697468~exp=1666698068~hmac=1573a3b6fdb69522b0de6946437a58e9b07386bc6444fbeecbaf6e522135edcf",
       "rating": {
         "rate": 3.9,
@@ -70,6 +76,7 @@
       "title": "Digital Logic",
       "price": 9.99,
       "category": "systems-architect",
+      "details":"Digital logic is the underlying logic system that drives electronic circuit board design. Digital logic is the manipulation of binary values through printed circuit board technology that uses circuits and logic gates to construct the implementation of computer operations. Digital logic is a common part of electrical engineering and design courses.",
       "image": "https://img.freepik.com/free-vector/flat-computer-engineering-concept_23-2148157162.jpg?w=360&t=st=1666699241~exp=1666699841~hmac=a369a7308689d1f807ee0a6d6f00a0274122bf94321a1ef2a9394823cb9cb6f4",
       "rating": {
         "rate": 3,
@@ -81,6 +88,7 @@
       "title": "Microprocessors and Assembly Language Programming",
       "price": 10.99,
       "category": "machine-learning",
+      "details":"A Microprocessor is an important part of a computer architecture without which you will not be able to perform anything on your computer. It is a programmable device that takes in input performs some arithmetic and logical operations over it and produces the desired output. In simple words, a Microprocessor is a digital device on a chip that can fetch instructions from memory, decode and execute them and give results.",
       "image": "https://img.freepik.com/free-vector/digital-technology-face-artificial-intelligence_1017-21770.jpg?w=996&t=st=1666699179~exp=1666699779~hmac=aae5b65052d0ffb9c5bb794d35a350a36191b930bebd800bec535418b8a954a8",
       "rating": {
         "rate": 1.9,
@@ -91,6 +99,7 @@
       "id": 9,
       "title": "Object Oriented Programing",
       "price": 64,
+      "details":"Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.OOP focuses on the objects that developers want to manipulate rather than the logic required to manipulate them. This approach to programming is well-suited for programs that are large, complex and actively updated or maintained. This includes programs for manufacturing and design, as well as mobile applications; for example, OOP can be used for manufacturing system simulation software.The organization of an object-oriented program also makes the method beneficial to collaborative development, where projects are divided into groups. Additional benefits of OOP include code reusability, scalability and efficiency.",
       "category": "software-engineering",
       "image": "https://img.freepik.com/free-vector/global-data-security-personal-data-security-cyber-data-security-online-concept-illustration-internet-security-information-privacy-protection_1150-37376.jpg?w=360&t=st=1666699589~exp=1666700189~hmac=bf2d24b8afaf466cc883742b52b9ed9ce571350b197ba1f281852cc6972d28b2",
       "rating": {
@@ -102,6 +111,7 @@
       "id": 10,
       "title": "Artificial intelligence",
       "price": 109,
+      "details":" Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving. The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning (ML), which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images, or video.",
       "category": "machine-learning",
       "image": "https://img.freepik.com/free-vector/poster-artificial-intelligence_107791-2759.jpg?w=360&t=st=1666699284~exp=1666699884~hmac=55d70e4c9f3b569db6fd7dc77ac301c230e146e74211571179058993e6ee8328",
       "rating": {
@@ -113,6 +123,7 @@
       "id": 11,
       "title": "Database Systems",
       "price": 109,
+      "details":"A database is an organized collection of structured information, or data, typically stored electronically in a computer system. A database is usually controlled by a database management system (DBMS). Together, the data and the DBMS, along with the applications that are associated with them, are referred to as a database system, often shortened to just database. Data within the most common types of databases in operation today is typically modeled in rows and columns in a series of tables to make processing and data querying efficient. The data can then be easily accessed, managed, modified, updated, controlled, and organized. Most databases use structured query language (SQL) for writing and querying data.",
       "category": "electronics",
       "image": "https://img.freepik.com/free-vector/big-data-landing-page_107791-331.jpg?w=996&t=st=1666699353~exp=1666699953~hmac=7cbbf2c79c319b853a768ea9c1be1b6d3f6e6c87e56e81488145667532847db6",
       "rating": {
@@ -125,6 +136,7 @@
       "title": "Compiler Construction",
       "price": 114,
       "category": "systems-architect",
+      "details":"Computers for home use fall into four categories of desktop, laptop, notepad/notebook, and tablet. Notepad machines are regarded as auxiliaries to desktop or laptop machines, though some can be almost as capable for office work that does not require optical drives, high speeds, or large memory. The tablet type of machine is aimed at those who need computing facilities on the move. If needed, however, an optical drive can be added using an external casing with a USB connection, and memory can be added by way of SD cards. Mac (Apple) machines are now constructed using Intel hardware. The operating system (OS) is the software that determines the capabilities of the computer hardware by providing a set of programs that control the hardware. The most familiar type of OS is the hard-drive (or SSD) type used on computers, but there is another type called RTOS, meaning real-time operating system. Whatever OS is use; users need to arrange the hard drive so that they can achieve easy operation and minimum clutter. Applications are to be installed. Many applications come on a single CD but some, particularly graphics applications, may need more than one CD (or a DVD) and some may come with data files as well as program files.",
       "image": "https://img.freepik.com/free-vector/software-development-programming-coding-learning-information-technology-courses-it-courses-all-levels-computing-hi-tech-course-concept_335657-191.jpg?w=740&t=st=1666700450~exp=1666701050~hmac=2708654c485fe0bd76fdd5e9402087f8140b0d254bbb2808fd45933c3ac35139",
       "rating": {
         "rate": 4.8,
